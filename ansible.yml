@@ -1,5 +1,6 @@
 - hosts: web
   tasks:
-  - win_updates:
+  - name: Update windows server
+    win_updates:
       category_names: '*'
       reboot: yes
