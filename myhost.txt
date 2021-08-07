@@ -1,0 +1,2 @@
+[web]
+52.66.16.18  ansible_ssh_user=ansible   ansible_password=Windows@123  ansible_shell_type=cmd
