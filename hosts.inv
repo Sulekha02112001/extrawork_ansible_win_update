@@ -1,2 +1,2 @@
 [web]
-52.66.16.18  ansible_ssh_user=ansible     ansible_shell_type=cmd
+52.66.16.18    ansible_shell_type=cmd
