@@ -1,4 +1,4 @@
-- hosts: my
+- hosts: web
   tasks:
   - win_updates:
       category_names: '*'
