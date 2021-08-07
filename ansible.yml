@@ -1,0 +1,5 @@
+- hosts: my
+  tasks:
+  - win_updates:
+      category_names: '*'
+      reboot: yes
